@@ -4,3 +4,4 @@ Ayrıca Github actions entegrasyonu ile junit testleri otomatik çalıştırıl�
 
 
 [![Java CI with Maven](https://github.com/ImmaKagan/final3github_ci/actions/workflows/maven.yml/badge.svg)](https://github.com/ImmaKagan/final3github_ci/actions/workflows/maven.yml)
+
